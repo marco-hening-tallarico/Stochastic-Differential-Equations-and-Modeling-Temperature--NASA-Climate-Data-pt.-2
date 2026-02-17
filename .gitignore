@@ -1,0 +1,12 @@
+
+# codex-layout-standard
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/0_raw/
+data/1_interim/
+data/2_processed/
+models/
+*.log
+.env
+.env.*
